@@ -1,1 +1,3 @@
-# Checkpoint-DataMining
+# Customers Shopping Trends Data
+
+Customers Shopping Trends Data ini memberikan wawasan berharga mengenai perilaku pelanggan dan pola pembelian pelanggan. Memahami preferensi dan tren pelanggan sangat penting bagi bisnis untuk menyesuaikan produk, strategi pemasaran, dan pengalaman pelanggan secara keseluruhan. Dataset ini menangkap berbagai atribut pelanggan termasuk usia, jenis kelamin, riwayat pembelian, metode pembayaran pilihan, frekuensi pembelian, dan banyak lagi. Menganalisis data ini dapat membantu bisnis membuat keputusan yang tepat, mengoptimalkan penawaran produk, dan meningkatkan kepuasan pelanggan. Kumpulan data ini merupakan sumber daya berharga bagi bisnis yang ingin menyelaraskan strategi mereka dengan kebutuhan dan preferensi pelanggan.
